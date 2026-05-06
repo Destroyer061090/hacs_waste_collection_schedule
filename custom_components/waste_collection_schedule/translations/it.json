@@ -21723,6 +21723,34 @@
         },
         "data_description": {}
       },
+      "args_pendle_gov_uk": {
+        "title": "Configurazione Sorgente",
+        "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. {howto}Maggiori informazioni: {docs_url}.",
+        "data": {
+          "calendar_title": "Nome Calendario",
+          "address": "Indirizzo",
+          "collection_zone": "Collection Zone",
+          "future_collection_dates": "Future Collection Dates",
+          "garden_waste_bin": "Garden Waste Bin",
+          "postcode": "Codice Postale CAP"
+        },
+        "data_description": {
+          "calendar_title": "Puoi cambiare il nome del calendario della raccolta dei rifiuti, altrimenti di default verra' utilizzato il nome del tuo fornitore di servizi."
+        }
+      },
+      "reconfigure_pendle_gov_uk": {
+        "title": "Riconfigurazione Sorgente",
+        "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. {howto}Per maggiori informazioni: {docs_url}.",
+        "data": {
+          "calendar_title": "Nome Calendario",
+          "address": "Indirizzo",
+          "collection_zone": "Collection Zone",
+          "future_collection_dates": "Future Collection Dates",
+          "garden_waste_bin": "Garden Waste Bin",
+          "postcode": "Codice Postale CAP"
+        },
+        "data_description": {}
+      },
       "args_peterborough_gov_uk": {
         "title": "Configurazione Sorgente",
         "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. {howto}Maggiori informazioni: {docs_url}.",

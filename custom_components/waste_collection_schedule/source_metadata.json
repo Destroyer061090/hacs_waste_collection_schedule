@@ -5047,6 +5047,13 @@
     },
     "urls": {}
   },
+  "pendle_gov_uk": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/pendle_gov_uk.md",
+    "howto": {
+      "en": "Enter the postcode and address as returned by Pendle Borough Council. Set garden_waste_bin to true when the property has a green garden waste bin, and set collection_zone only if Pendle returns multiple schedules for the address."
+    },
+    "urls": {}
+  },
   "peterborough_gov_uk": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/peterborough_gov_uk.md",
     "howto": {},

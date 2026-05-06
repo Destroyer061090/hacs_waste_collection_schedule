@@ -2780,6 +2780,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Oldham Council](/doc/source/oldham_gov_uk.md) / oldham.gov.uk
 - [Oxford City Council](/doc/source/oxford_gov_uk.md) / oxford.gov.uk
 - [Pembrokeshire County Council](/doc/source/pembrokeshire_gov_uk.md) / pembrokeshire.gov.uk
+- [Pendle Borough Council](/doc/source/pendle_gov_uk.md) / pendle.gov.uk/binday
 - [Peterborough City Council](/doc/source/peterborough_gov_uk.md) / peterborough.gov.uk
 - [Plymouth City Council](/doc/source/plymouth_gov_uk.md) / plymouth.gov.uk
 - [Portsmouth City Council](/doc/source/portsmouth_gov_uk.md) / portsmouth.gov.uk

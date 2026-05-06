@@ -17950,6 +17950,12 @@
       "id": "pembrokeshire_gov_uk"
     },
     {
+      "title": "Pendle Borough Council",
+      "module": "pendle_gov_uk",
+      "default_params": {},
+      "id": "pendle_gov_uk"
+    },
+    {
       "title": "Peterborough City Council",
       "module": "peterborough_gov_uk",
       "default_params": {},
