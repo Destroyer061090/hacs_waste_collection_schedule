@@ -1273,6 +1273,14 @@
     "howto": {},
     "urls": {}
   },
+  "mulhouse_alsace_fr": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/mulhouse_alsace_fr.md",
+    "howto": {
+      "en": "Provide the name of your municipality within Mulhouse Alsace Agglomération (e.g. \"Wittelsheim\"). For Mulhouse, also provide the district name (e.g. \"Rebberg\", \"Centre Ville\").",
+      "fr": "Indiquez le nom de votre commune au sein de Mulhouse Alsace Agglomération (par exemple « Wittelsheim »). Pour Mulhouse, précisez aussi le quartier (par exemple « Rebberg », « Centre Ville »)."
+    },
+    "urls": {}
+  },
   "grandbesancon_fr": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/grandbesancon_fr.md",
     "howto": {
