@@ -4919,6 +4919,14 @@
       "id": "ics_recollect"
     },
     {
+      "title": "Oxford County, ON",
+      "module": "ics",
+      "default_params": {
+        "split_at": "\\, (?:and )?|(?: and )"
+      },
+      "id": "ics_recollect"
+    },
+    {
       "title": "Peel Region, ON",
       "module": "ics",
       "default_params": {

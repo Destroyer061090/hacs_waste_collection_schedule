@@ -829,6 +829,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Oakville (ON)](/doc/source/recyclecoach_com.md) / oakville.ca
 - [Orillia (ON)](/doc/source/recyclecoach_com.md) / orillia.ca
 - [Ottawa, Canada](/doc/ics/recollect.md) / ottawa.ca
+- [Oxford County, ON](/doc/ics/recollect.md) / oxfordcounty.ca/services-for-you/garbage-and-recycling/curbside-collection
 - [Peel Region, ON](/doc/ics/recollect.md) / peelregion.ca
 - [Pointe-Claire (QC)](/doc/source/pointe_claire_qc_ca.md) / pointe-claire.ca
 - [Prince George (BC)](/doc/source/recyclecoach_com.md) / princegeorge.ca
