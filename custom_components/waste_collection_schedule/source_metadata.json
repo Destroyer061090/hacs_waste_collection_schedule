@@ -199,6 +199,11 @@
     "howto": {},
     "urls": {}
   },
+  "melbourne_vic_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/melbourne_vic_gov_au.md",
+    "howto": {},
+    "urls": {}
+  },
   "melvillecity_com_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/melvillecity_com_au.md",
     "howto": {
