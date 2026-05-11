@@ -1101,6 +1101,11 @@
     },
     "urls": {}
   },
+  "shawinigan_ca": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/shawinigan_ca.md",
+    "howto": {},
+    "urls": {}
+  },
   "ics_sherbrooke_ca": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/ics/sherbrooke_ca.md",
     "howto": {
@@ -4612,6 +4617,13 @@
       "url_www_findmyaddress_co_uk": "https://www.findmyaddress.co.uk/"
     }
   },
+  "ipswich_gov_uk": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/ipswich_gov_uk.md",
+    "howto": {
+      "en": "Visit https://app.ipswich.gov.uk/bin-collection-better-recycling/ and search for your street. Once your schedule is displayed the URL will end with /weeks/<number> — use that number as the `location_id` argument."
+    },
+    "urls": {}
+  },
   "islington_gov_uk": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/islington_gov_uk.md",
     "howto": {},
@@ -5296,6 +5308,15 @@
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/southkesteven_gov_uk.md",
     "howto": {},
     "urls": {}
+  },
+  "southribble_gov_uk": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/southribble_gov_uk.md",
+    "howto": {
+      "en": "Go to https://www.southribble.gov.uk/bincollectiondays and enter your postcode. Use browser dev tools to find the UPRN (the option value in the address dropdown)."
+    },
+    "urls": {
+      "url_www_findmyaddress_co_uk": "https://www.findmyaddress.co.uk/"
+    }
   },
   "sstaffs_gov_uk": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sstaffs_gov_uk.md",

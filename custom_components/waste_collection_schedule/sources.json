@@ -5035,6 +5035,12 @@
       "id": "ics_recollect"
     },
     {
+      "title": "Shawinigan",
+      "module": "shawinigan_ca",
+      "default_params": {},
+      "id": "shawinigan_ca"
+    },
+    {
       "title": "Sherbrooke (QC)",
       "module": "ics",
       "default_params": {},
@@ -17945,6 +17951,12 @@
       "id": "iapp_itouchvision_com"
     },
     {
+      "title": "Ipswich Borough Council",
+      "module": "ipswich_gov_uk",
+      "default_params": {},
+      "id": "ipswich_gov_uk"
+    },
+    {
       "title": "Islington Council",
       "module": "islington_gov_uk",
       "default_params": {},
@@ -18677,6 +18689,12 @@
       "module": "binzone_uk",
       "default_params": {},
       "id": "binzone_uk"
+    },
+    {
+      "title": "South Ribble Borough Council",
+      "module": "southribble_gov_uk",
+      "default_params": {},
+      "id": "southribble_gov_uk"
     },
     {
       "title": "South Somerset District Council",
