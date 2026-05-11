@@ -2278,6 +2278,18 @@
       "id": "umweltverbaende_at"
     },
     {
+      "title": "G\u00e4nserndorf",
+      "module": "gaenserndorf_city_at",
+      "default_params": {},
+      "id": "gaenserndorf_city_at"
+    },
+    {
+      "title": "G\u00e4nserndorf City / G\u00e4nserndorf App",
+      "module": "gaenserndorf_city_at",
+      "default_params": {},
+      "id": "gaenserndorf_city_at"
+    },
+    {
       "title": "G\u00fcssing",
       "module": "citiesapps_com",
       "default_params": {},

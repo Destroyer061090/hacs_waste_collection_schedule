@@ -3543,6 +3543,33 @@
         },
         "data_description": {}
       },
+      "args_gaenserndorf_city_at": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "calendar_index": "Calendar Index",
+          "street": "Street Name"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "calendar_index": "Index of the calendar to use when a street maps to multiple calendars (starting at 0).",
+          "street": "The name of your street as shown in the Gänserndorf App."
+        }
+      },
+      "reconfigure_gaenserndorf_city_at": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "calendar_index": "Calendar Index",
+          "street": "Street Name"
+        },
+        "data_description": {
+          "calendar_index": "Index of the calendar to use when a street maps to multiple calendars (starting at 0).",
+          "street": "The name of your street as shown in the Gänserndorf App."
+        }
+      },
       "args_hausmannstaetten_gv_at": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",

@@ -400,6 +400,8 @@ If you already have enough information for your municipality/region, you are ver
 - [GVU Scheibbs](/doc/source/scheibbs_umweltverbaende_at.md) / scheibbs.umweltverbaende.at
 - [GVU Scheibbs](/doc/source/umweltverbaende_at.md) / scheibbs.umweltverbaende.at
 - [GVU St. Pölten](/doc/source/umweltverbaende_at.md) / stpoeltenland.umweltverbaende.at
+- [Gänserndorf](/doc/source/gaenserndorf_city_at.md) / gaenserndorf.at
+- [Gänserndorf City / Gänserndorf App](/doc/source/gaenserndorf_city_at.md) / gaenserndorf.at
 - [Güssing](/doc/source/citiesapps_com.md) / guessing.co.at
 - [Güttenbach](/doc/source/citiesapps_com.md) / guettenbach.at
 - [Haag am Hausruck](/doc/source/citiesapps_com.md) / haag-hausruck.at
