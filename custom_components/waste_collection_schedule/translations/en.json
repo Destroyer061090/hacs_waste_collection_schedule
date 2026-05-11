@@ -4693,6 +4693,29 @@
           "address": "Your full address / Votre adresse complete"
         }
       },
+      "args_gmrmatawinie_qc_ca": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "city_id": "Sector"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "city_id": "Select your sector from the list"
+        }
+      },
+      "reconfigure_gmrmatawinie_qc_ca": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "city_id": "Sector"
+        },
+        "data_description": {
+          "city_id": "Select your sector from the list"
+        }
+      },
       "args_pointe_claire_qc_ca": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
@@ -4784,6 +4807,41 @@
           "year_field": "Year Field"
         },
         "data_description": {}
+      },
+      "args_rmrlac_qc_ca": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "language": "Language",
+          "locality": "Municipality",
+          "province_or_state": "Province/State",
+          "street_number_and_name": "Street Number and Name"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "language": "Language code for collection type names (default: en, supported: en, fr)",
+          "locality": "Municipality name (e.g. 'Métabetchouan-Lac-à-la-Croix')",
+          "province_or_state": "Province or state code (default: QC)",
+          "street_number_and_name": "Street number and name (e.g. '1201 16e Chemin')"
+        }
+      },
+      "reconfigure_rmrlac_qc_ca": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "language": "Language",
+          "locality": "Municipality",
+          "province_or_state": "Province/State",
+          "street_number_and_name": "Street Number and Name"
+        },
+        "data_description": {
+          "language": "Language code for collection type names (default: en, supported: en, fr)",
+          "locality": "Municipality name (e.g. 'Métabetchouan-Lac-à-la-Croix')",
+          "province_or_state": "Province or state code (default: QC)",
+          "street_number_and_name": "Street number and name (e.g. '1201 16e Chemin')"
+        }
       },
       "args_ics_vsj_ca": {
         "title": "Configure Source",

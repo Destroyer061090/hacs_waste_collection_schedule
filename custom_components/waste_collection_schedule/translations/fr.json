@@ -4466,6 +4466,29 @@
         },
         "data_description": {}
       },
+      "args_gmrmatawinie_qc_ca": {
+        "title": "Configurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "city_id": "Secteur"
+        },
+        "data_description": {
+          "calendar_title": "Un nom plus lisible ou convivial pour le calendrier des déchets. Si aucun n'est fourni, le nom renvoyé par la source sera utilisé.",
+          "city_id": "Sélectionnez votre secteur dans la liste"
+        }
+      },
+      "reconfigure_gmrmatawinie_qc_ca": {
+        "title": "Reconfigurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "city_id": "Secteur"
+        },
+        "data_description": {
+          "city_id": "Sélectionnez votre secteur dans la liste"
+        }
+      },
       "args_pointe_claire_qc_ca": {
         "title": "Configurer la Source",
         "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
@@ -4557,6 +4580,41 @@
           "year_field": "Year Field"
         },
         "data_description": {}
+      },
+      "args_rmrlac_qc_ca": {
+        "title": "Configurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "language": "Langue",
+          "locality": "Municipalité",
+          "province_or_state": "Province/État",
+          "street_number_and_name": "Numéro et nom de rue"
+        },
+        "data_description": {
+          "calendar_title": "Un nom plus lisible ou convivial pour le calendrier des déchets. Si aucun n'est fourni, le nom renvoyé par la source sera utilisé.",
+          "language": "Code de langue pour les types de collecte (défaut: fr, supporté: en, fr)",
+          "locality": "Nom de la municipalité (ex. 'Métabetchouan-Lac-à-la-Croix')",
+          "province_or_state": "Province ou état (défaut: QC)",
+          "street_number_and_name": "Numéro et nom de rue (ex. '1201 16e Chemin')"
+        }
+      },
+      "reconfigure_rmrlac_qc_ca": {
+        "title": "Reconfigurer la Source",
+        "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
+        "data": {
+          "calendar_title": "Titre du Calendrier",
+          "language": "Langue",
+          "locality": "Municipalité",
+          "province_or_state": "Province/État",
+          "street_number_and_name": "Numéro et nom de rue"
+        },
+        "data_description": {
+          "language": "Code de langue pour les types de collecte (défaut: fr, supporté: en, fr)",
+          "locality": "Nom de la municipalité (ex. 'Métabetchouan-Lac-à-la-Croix')",
+          "province_or_state": "Province ou état (défaut: QC)",
+          "street_number_and_name": "Numéro et nom de rue (ex. '1201 16e Chemin')"
+        }
       },
       "args_ics_vsj_ca": {
         "title": "Configurer la Source",

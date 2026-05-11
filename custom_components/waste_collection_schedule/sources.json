@@ -4883,6 +4883,12 @@
       "id": "publidata_ca"
     },
     {
+      "title": "MRC Matawinie (QC)",
+      "module": "gmrmatawinie_qc_ca",
+      "default_params": {},
+      "id": "gmrmatawinie_qc_ca"
+    },
+    {
       "title": "Muskoka District (Huntsville, ON)",
       "module": "ics",
       "default_params": {
@@ -5011,6 +5017,12 @@
         "split_at": "\\, (?:and )?|(?: and )"
       },
       "id": "ics_recollect"
+    },
+    {
+      "title": "RMR Lac-Saint-Jean (QC)",
+      "module": "rmrlac_qc_ca",
+      "default_params": {},
+      "id": "rmrlac_qc_ca"
     },
     {
       "title": "Saint-Jean-Sur-Richelieu, QC",

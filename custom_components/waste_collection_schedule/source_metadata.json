@@ -1069,6 +1069,14 @@
     "howto": {},
     "urls": {}
   },
+  "gmrmatawinie_qc_ca": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/gmrmatawinie_qc_ca.md",
+    "howto": {
+      "en": "Find your sector on the <a href=\"https://gmrmatawinie.org/calendriers-collectes/\" target=\"_blank\">MRC Matawinie collection calendar</a>.",
+      "fr": "Trouvez votre secteur sur la <a href=\"https://gmrmatawinie.org/calendriers-collectes/\" target=\"_blank\">carte des collectes de la MRC Matawinie</a>."
+    },
+    "urls": {}
+  },
   "pointe_claire_qc_ca": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/pointe_claire_qc_ca.md",
     "howto": {
@@ -1090,6 +1098,14 @@
     "howto": {
       "en": "- Go to <https://riviere-beaudette.com/> and find the waste collection calendar under the \"Calendriers\" section.\n- Download the ICS (.ics) calendar file.\n- The ICS file URL typically follows the pattern: `https://riviere-beaudette.com/wp-content/uploads/{year}/01/CollectesRB{year}V2.ics`\n- Use this URL as the `url` parameter, replacing the year with `{%Y}` for automatic year substitution.\n- Use the `regex` parameter to extract waste types from event summaries.\n",
       "fr": "- Allez sur <https://riviere-beaudette.com/> et trouvez le calendrier de collecte sous la section \"Calendriers\".\n- Téléchargez le fichier calendrier ICS (.ics).\n- L'URL du fichier ICS suit généralement le format: `https://riviere-beaudette.com/wp-content/uploads/{année}/01/CollectesRB{année}V2.ics`\n- Utilisez cette URL comme paramètre `url`, en remplaçant l'année par `{%Y}` pour la substitution automatique.\n- Utilisez le paramètre `regex` pour extraire les types de collecte.\n"
+    },
+    "urls": {}
+  },
+  "rmrlac_qc_ca": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/rmrlac_qc_ca.md",
+    "howto": {
+      "en": "Enter your street number and name along with your municipality.",
+      "fr": "Entrez votre numéro et nom de rue ainsi que votre municipalite."
     },
     "urls": {}
   },
