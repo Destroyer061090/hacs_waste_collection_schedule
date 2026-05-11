@@ -16318,6 +16318,14 @@
       "id": "nsr_se"
     },
     {
+      "title": "NVOA - Nacka Vatten och Avfall",
+      "module": "edpevent_se",
+      "default_params": {
+        "service_provider": "nvoa"
+      },
+      "id": "edpevent_se"
+    },
+    {
       "title": "N\u00e5rab - Norra \u00c5sbo Renh\u00e5llnings AB",
       "module": "narab_se",
       "default_params": {},
