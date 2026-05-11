@@ -16164,6 +16164,12 @@
       "id": "hudiksvall_se"
     },
     {
+      "title": "H\u00e4ssleholm Milj\u00f6",
+      "module": "hassleholm_miljo_se",
+      "default_params": {},
+      "id": "hassleholm_miljo_se"
+    },
+    {
       "title": "J\u00f6nk\u00f6ping - June Avfall & Milj\u00f6",
       "module": "juneavfall_se",
       "default_params": {},
