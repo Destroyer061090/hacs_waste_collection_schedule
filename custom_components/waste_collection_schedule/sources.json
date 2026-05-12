@@ -18487,6 +18487,12 @@
       "id": "portsmouth_gov_uk"
     },
     {
+      "title": "Powys County Council",
+      "module": "powys_gov_uk",
+      "default_params": {},
+      "id": "powys_gov_uk"
+    },
+    {
       "title": "Preston City Council",
       "module": "preston_gov_uk",
       "default_params": {},
@@ -18629,6 +18635,12 @@
       "module": "shropshire_gov_uk",
       "default_params": {},
       "id": "shropshire_gov_uk"
+    },
+    {
+      "title": "Slough Borough Council",
+      "module": "slough_gov_uk",
+      "default_params": {},
+      "id": "slough_gov_uk"
     },
     {
       "title": "Solihull Council",
