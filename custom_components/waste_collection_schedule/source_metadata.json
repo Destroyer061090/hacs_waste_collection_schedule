@@ -3357,7 +3357,7 @@
   "rybnik_pl": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/rybnik_pl.md",
     "howto": {
-      "en": "Download the current schedule PDF for your district from the Rybnik city website: https://www.rybnik.eu/dla-mieszkancow/odpady-komunalne/ (navigate to the current year's schedules). Open page 2 of the PDF and note your Rejon (sub-district zone) name from the leftmost column of the schedule table."
+      "en": "Download the current schedule PDF for your district from the Rybnik city website: https://www.rybnik.eu/dla-mieszkancow/odpady-komunalne/ (navigate to the current year's schedules). Open page 1 of the PDF and find your Rejon (sub-district zone) name in the left column of the table."
     },
     "urls": {}
   },
