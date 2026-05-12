@@ -981,6 +981,14 @@
     "howto": {},
     "urls": {}
   },
+  "ics_brossard_ca": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/ics/brossard_ca.md",
+    "howto": {
+      "en": "- Visit https://brossard.ca/calendrier-des-collectes/ and select your sector (A, B, C, E, I, J, L, M, N, O, P, R, S, T, V, X, or Y).\n- Scroll to the \"Collection schedule for your residence\" section.\n- Right-click on \"Add the 2026 collection schedule to my calendar (ICS)\" and select `Copy link address`.\n- Use this copied URL as the `url` parameter.\n",
+      "fr": "- Visitez https://brossard.ca/calendrier-des-collectes/ et sélectionnez votre secteur (A, B, C, E, I, J, L, M, N, O, P, R, S, T, V, X ou Y).\n- Faites défiler jusqu'à la section \"Horaire de collecte pour votre résidence\".\n- Faites un clic droit sur \"Ajouter l'horaire des collectes 2026 à mon calendrier (ics)\" et sélectionnez `Copier l'adresse du lien`.\n- Utilisez cette URL comme paramètre `url`.\n"
+    },
+    "urls": {}
+  },
   "calgary_ca": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/calgary_ca.md",
     "howto": {},
@@ -1322,6 +1330,11 @@
   },
   "mamirolle_info": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/mamirolle_info.md",
+    "howto": {},
+    "urls": {}
+  },
+  "data_montpellier3m_fr": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/data_montpellier3m_fr.md",
     "howto": {},
     "urls": {}
   },
@@ -5382,6 +5395,13 @@
     "urls": {
       "url_www_findmyaddress_co_uk": "https://www.findmyaddress.co.uk/"
     }
+  },
+  "staffsmoorlands_gov_uk": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/staffsmoorlands_gov_uk.md",
+    "howto": {
+      "en": "Your UPRN can be found by searching your postcode at https://www.staffsmoorlands.gov.uk/findyourbinday and selecting your address. The value shown in the address dropdown is your UPRN. Alternatively, find your UPRN at https://www.findmyaddress.co.uk/"
+    },
+    "urls": {}
   },
   "stevenage_gov_uk": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/stevenage_gov_uk.md",

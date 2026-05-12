@@ -774,6 +774,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Aurora (ON)](/doc/source/recyclecoach_com.md) / aurora.ca
 - [Brampton (ON)](/doc/source/recyclecoach_com.md) / brampton.ca
 - [Brantford (ON)](/doc/source/recyclecoach_com.md) / brantford.ca
+- [Brossard, Québec](/doc/ics/brossard_ca.md) / brossard.ca
 - [Burlington (ON)](/doc/source/recyclecoach_com.md) / burlington.ca
 - [Burnaby (BC)](/doc/source/recyclecoach_com.md) / burnaby.ca
 - [Caledon (ON)](/doc/source/recyclecoach_com.md) / caledon.ca
@@ -965,6 +966,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Mairie de Mamirolle](/doc/source/mamirolle_info.md) / mamirolle.info
 - [Martignas-sur-Jalle](/doc/source/opendata_bordeauxmetropole_fr.md) / opendata.bordeaux-metropole.fr
 - [Martillac](/doc/source/cc-montesquieu_fr.md) / cc-montesquieu.fr
+- [Montpellier Méditerranée Métropole](/doc/source/data_montpellier3m_fr.md) / data.montpellier3m.fr
 - [Morschwiller-le-Bas](/doc/source/mulhouse_alsace_fr.md) / data.mulhouse-alsace.fr
 - [Mulhouse](/doc/source/mulhouse_alsace_fr.md) / data.mulhouse-alsace.fr
 - [Mulhouse Alsace Agglomération (m2A)](/doc/source/mulhouse_alsace_fr.md) / data.mulhouse-alsace.fr
@@ -2900,6 +2902,7 @@ If you already have enough information for your municipality/region, you are ver
 - [St Albans City & District Council](/doc/source/stalbans_gov_uk.md) / stalbans.gov.uk
 - [St Helens Council](/doc/source/st_helens_gov_uk.md) / sthelens.gov.uk
 - [Stafford Borough Council](/doc/source/staffordbc_gov_uk.md) / staffordbc.gov.uk
+- [Staffordshire Moorlands District Council](/doc/source/staffsmoorlands_gov_uk.md) / staffsmoorlands.gov.uk
 - [Stevenage Borough Council](/doc/source/stevenage_gov_uk.md) / stevenage.gov.uk
 - [Stirling Council, UK](/doc/ics/recollect.md) / stirling.gov.uk
 - [Stockport Council](/doc/source/stockport_gov_uk.md) / stockport.gov.uk

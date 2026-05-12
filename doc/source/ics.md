@@ -156,6 +156,7 @@ This source has been successfully tested with the following service providers:
 
 ### Canada
 
+- [Brossard, Québec](/doc/ics/brossard_ca.md) / brossard.ca
 - [Calgary, AB](/doc/ics/recollect.md) / calgary.ca
 - [Castlegar, BC](/doc/ics/recollect.md) / castlegar.ca
 - [City of Beaumont, AB](/doc/ics/recollect.md) / beaumont.ab.ca
