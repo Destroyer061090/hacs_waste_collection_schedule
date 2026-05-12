@@ -13504,7 +13504,6 @@
         "data": {
           "calendar_title": "Titre du Calendrier",
           "city": "Ville",
-          "house_number": "Numéro civique",
           "street": "Rue"
         },
         "data_description": {
@@ -13517,7 +13516,6 @@
         "data": {
           "calendar_title": "Titre du Calendrier",
           "city": "Ville",
-          "house_number": "Numéro civique",
           "street": "Rue"
         },
         "data_description": {}

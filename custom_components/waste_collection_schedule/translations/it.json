@@ -13463,7 +13463,6 @@
         "data": {
           "calendar_title": "Nome Calendario",
           "city": "Città",
-          "house_number": "Civico",
           "street": "Strada"
         },
         "data_description": {
@@ -13476,7 +13475,6 @@
         "data": {
           "calendar_title": "Nome Calendario",
           "city": "Città",
-          "house_number": "Civico",
           "street": "Strada"
         },
         "data_description": {}

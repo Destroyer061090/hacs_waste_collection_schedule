@@ -13594,7 +13594,6 @@
         "data": {
           "calendar_title": "Kalender Titel",
           "city": "Stadt",
-          "house_number": "Hausnummer",
           "street": "Straße"
         },
         "data_description": {
@@ -13607,7 +13606,6 @@
         "data": {
           "calendar_title": "Kalender Titel",
           "city": "Stadt",
-          "house_number": "Hausnummer",
           "street": "Straße"
         },
         "data_description": {}
