@@ -19208,6 +19208,12 @@
       "id": "baton_rouge_la_us"
     },
     {
+      "title": "Chesapeake, VA",
+      "module": "chesapeake_va_us",
+      "default_params": {},
+      "id": "chesapeake_va_us"
+    },
+    {
       "title": "City of Austin, TX",
       "module": "ics",
       "default_params": {

@@ -5778,6 +5778,11 @@
     "howto": {},
     "urls": {}
   },
+  "chesapeake_va_us": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/chesapeake_va_us.md",
+    "howto": {},
+    "urls": {}
+  },
   "ics_recyclebycity_com": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/ics/recyclebycity_com.md",
     "howto": {
