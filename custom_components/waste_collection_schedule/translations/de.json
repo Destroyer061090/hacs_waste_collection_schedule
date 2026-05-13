@@ -19571,7 +19571,6 @@
         "data": {
           "calendar_title": "Kalender Titel",
           "address": "Adresse",
-          "address_id": "Address Id",
           "postcode": "PLZ"
         },
         "data_description": {
@@ -19584,7 +19583,6 @@
         "data": {
           "calendar_title": "Kalender Titel",
           "address": "Adresse",
-          "address_id": "Address Id",
           "postcode": "PLZ"
         },
         "data_description": {}

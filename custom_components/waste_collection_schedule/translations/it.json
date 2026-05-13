@@ -19431,7 +19431,6 @@
         "data": {
           "calendar_title": "Nome Calendario",
           "address": "Indirizzo",
-          "address_id": "Address Id",
           "postcode": "Codice Postale CAP"
         },
         "data_description": {
@@ -19444,7 +19443,6 @@
         "data": {
           "calendar_title": "Nome Calendario",
           "address": "Indirizzo",
-          "address_id": "Address Id",
           "postcode": "Codice Postale CAP"
         },
         "data_description": {}
