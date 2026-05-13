@@ -1862,6 +1862,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Brandizzo](/doc/source/junker_app.md) / junker.app
 - [Brembate](/doc/source/junker_app.md) / junker.app
 - [Brixen/Bressanone - Stadtwerke Brixen AG/ASM Bressanone SpA](/doc/source/junker_app.md) / junker.app
+- [Broni](/doc/source/junker_app.md) / junker.app
 - [Bubbiano](/doc/source/junker_app.md) / junker.app
 - [Budoni - Formula Ambiente Spa](/doc/source/junker_app.md) / junker.app
 - [Buggiano](/doc/source/aliaserviziambientali_it.md) / aliaserviziambientali.it
@@ -2105,6 +2106,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Sambuca Pistoiese](/doc/source/aliaserviziambientali_it.md) / aliaserviziambientali.it
 - [Sammichele di Bari e Casamassima - Meridionale Servizi Ambientali srl](/doc/source/junker_app.md) / junker.app
 - [San Casciano in Val di Pesa](/doc/source/aliaserviziambientali_it.md) / aliaserviziambientali.it
+- [San Cipriano Po](/doc/source/junker_app.md) / junker.app
 - [San Marcello Piteglio](/doc/source/aliaserviziambientali_it.md) / aliaserviziambientali.it
 - [Sanremo - Amaie Energia e Servizi Srl](/doc/source/junker_app.md) / junker.app
 - [Santa Lucia del Mela](/doc/source/junker_app.md) / junker.app
@@ -2135,6 +2137,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Spoltore - Rieco](/doc/source/junker_app.md) / junker.app
 - [Squillace - Sieco Spa](/doc/source/junker_app.md) / junker.app
 - [Stefanaconi](/doc/source/junker_app.md) / junker.app
+- [Stradella](/doc/source/junker_app.md) / junker.app
 - [Suno](/doc/source/junker_app.md) / junker.app
 - [Taranto (araccolta.it)](/doc/source/araccolta_it.md) / araccolta.it
 - [Termoli - Rieco Sud Scarl](/doc/source/junker_app.md) / junker.app
